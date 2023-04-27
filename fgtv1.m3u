@@ -1,0 +1,90 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml"
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="Weather",AccuWeather NOW
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim East
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Animation",Anime All Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV
+https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="General",BS TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-logo="https://i.imgur.com/9un7R3N.png" group-title="News",CBS News Boston
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsDetroit.us" tvg-logo="https://i.imgur.com/cMels2Y.png" group-title="News",CBS News Detroit
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-logo="https://i.imgur.com/DExbVa9.png" group-title="News",CBS News Miami
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="News",CBS News New York
+http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+#EXTINF:-1 tvg-id="CityofPompanoBeach.us" tvg-logo="https://i.imgur.com/Bv9OGrH.png" group-title="Legislative",City of Pompano Beach
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8
+#EXTINF:-1 tvg-id="CloudflareTV.us" tvg-logo="https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png" group-title="Education",Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=
+#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="Entertainment",Comet
+https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel Japan
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="Entertainment",Game Show Network East
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="HeartlandEastern.us" tvg-logo="https://i.imgur.com/djCq2Z5.png" group-title="Entertainment",Heartland Eastern
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
+#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://i.imgur.com/0i5rDRN.png" group-title="",JOMX-DTV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://i.imgur.com/tDyxk0Y.png" group-title="",JOTX-DTV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1 tvg-id="JSports1.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",J Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:-1 tvg-id="JSports2.jp" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sports",J Sports 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:-1 tvg-id="JSports3.jp" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Sports",J Sports 3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+#EXTINF:-1 tvg-id="KTCADT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Twin_Cities_Public_Television_logo_%28PBS%29.png" group-title="Weather" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",KTCA-DT5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
+#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/512px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sports",New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="General",NHK BS1
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://i.imgur.com/fiJ3Pnh.png" group-title="",NHK BS Premium
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://i.imgur.com/cQObxr1.png" group-title="Education",NHK Educational TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://i.imgur.com/hQyNHDM.png" group-title="General",NHK General TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World-Japan
+https://ythls.onrender.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
+#EXTINF:-1 tvg-id="PBCTVChannel20.us" tvg-logo="https://i.imgur.com/2bGBbOZ.png" group-title="Legislative",PBC TV Channel 20
+https://pbcmedia.pbcgov.org:1936/live/mp4live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Eastern/Central
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 tvg-id="StarTrek.us" tvg-logo="https://i.imgur.com/8cvXYiT.png" group-title="Series",Star Trek
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="TokuSHOUTsu.us" tvg-logo="https://i.imgur.com/Ol0BBiV.png" group-title="Series",TokuSHOUTsu
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c3f8f12a93c2d61b9990a4e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=848&terminate=false&userId=
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="",TV Asahi
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="",WABC-DT1
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="Weather",WeatherNation
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Weather",Weathernews
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://i.imgur.com/yHUUIIz.png" group-title="Weather",WeatherSpy
+https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
+#EXTINF:-1 tvg-id="WFSUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png" group-title="Legislative",WFSU-DT2
+https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2cmesd/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-id="WNETDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="",WNET-DT1
+https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="",WNYW-DT1
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Animation",Yu-Gi-Oh!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
